@@ -1,6 +1,6 @@
 # DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting
 
-Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](https://thu-jw.github.io/)\*, Guangyi Chen, Yansong Tang, Zheng Zhu, Guan Huang, [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1),
+Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](https://thu-jw.github.io/)\*, [Guangyi Chen](https://chengy12.github.io/), [Yansong Tang](https://andytang15.github.io/), [Zheng Zhu](http://www.zhengzhu.net/), Guan Huang, [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1),
 
 This repository contains PyTorch implementation for DenseCLIP.
 
