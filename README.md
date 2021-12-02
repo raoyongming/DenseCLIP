@@ -20,7 +20,7 @@ and ImageNet pre-trained models.
 
 Our code is based on mmsegmentation and mmdetection and timm.
 
-[[Project Page]](https://dynamicvit.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2106.02034)
+[[Project Page]](https://denseclip.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2106.02034)
 
 
 ## Usage
