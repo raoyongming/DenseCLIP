@@ -51,9 +51,9 @@ We provide DenseCLIP models for Semantic FPN framework.
 |RN50-CLIP|248.8|31.0|36.9|43.5|[config](segmentation/configs/fpn_clipres50_512x512_80k.py)|-| 
 |RN50-DenseCLIP|269.2|50.3|43.5|44.7|[config](segmentation/configs/denseclip_fpn_res50_512x512_80k.py)|[Tsinghua Cloud](xxx)| 
 |RN101-CLIP|326.6|50.0|42.7|44.3|[config](segmentation/configs/fpn_clipres101_512x512_80k.py)|-| 
-|RN101-DenseCLIP|346.3|67.8|45.1|46.5|[config](segmentation/configs/denseclip_fpn_res101_512x512_80k.py)|[Tsinghua Cloud](xxx)| 
+|RN101-DenseCLIP|346.3|67.8|45.1|46.5|[config](segmentation/configs/denseclip_fpn_res101_512x512_80k.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/bd478735bd9040ab9603/?dl=1)| 
 |ViT-B-CLIP|1037.4|100.8|49.4|50.3|[config](segmentation/configs/fpn_clipvit-b_640x640_80k.py)|-| 
-|ViT-B-DenseCLIP|1043.1|105.3|50.6|51.3|[config](segmentation/configs/denseclip_fpn_vit-b_640x640_80k.py)|[Tsinghua Cloud](xxx)| 
+|ViT-B-DenseCLIP|1043.1|105.3|50.6|51.3|[config](segmentation/configs/denseclip_fpn_vit-b_640x640_80k.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/b423bca9436349c0991f/?dl=1)| 
 
 #### Training & Evaluation on ADE20K
 
