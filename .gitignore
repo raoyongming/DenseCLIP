@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+**/.DS_Store
+work_dirs
+*.pth
+data
+pretrained
