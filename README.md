@@ -48,8 +48,8 @@ We provide DenseCLIP models for Semantic FPN framework.
 
 | Model | FLOPs (G) | Params (M) | mIoU(SS) | mIoU(MS) | config | url |
 |-------|-----------|------------|--------|--------|--------|-----| 
-|RN50-CLIP|248.8|31.0|36.9|41.6|[config](segmentation/configs/fpn_clipres50_512x512_80k.py)|-| 
-|RN50-DenseCLIP|269.2|50.3|43.5|44.7|[config](segmentation/configs/denseclip_fpn_res50_512x512_80k.py)|[Tsinghua Cloud](xxx)| 
+|RN50-CLIP|248.8|31.0|36.9|43.5|[config](segmentation/configs/fpn_clipres50_512x512_80k.py)|-| 
+|RN50-DenseCLIP|269.2|50.3|43.5|44.7|[config](segmentation/configs/denseclip_fpn_res50_512x512_80k.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/8636d4a95c60418ba63c/?dl=1)| 
 |RN101-CLIP|326.6|50.0|42.7|44.3|[config](segmentation/configs/fpn_clipres101_512x512_80k.py)|-| 
 |RN101-DenseCLIP|346.3|67.8|45.1|46.5|[config](segmentation/configs/denseclip_fpn_res101_512x512_80k.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/bd478735bd9040ab9603/?dl=1)| 
 |ViT-B-CLIP|1037.4|100.8|49.4|50.3|[config](segmentation/configs/fpn_clipvit-b_640x640_80k.py)|-| 
@@ -84,17 +84,17 @@ We provide models for both RetinaNet and Mask-RCNN framework.
 | Model | FLOPs (G) | Params (M) | box AP | config | url |
 |-------|-----------|------------|--------|--------|-----| 
 |RN50-CLIP|265|38|36.9|[config](detection/configs/retinanet_clip_r50_fpn_1x_coco.py)|-| 
-|RN50-DenseCLIP|285|60|37.8|[config](detection/configs/retinanet_denseclip_r50_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/bfb64768d2124e99b79c/)| 
+|RN50-DenseCLIP|285|60|37.8|[config](detection/configs/retinanet_denseclip_r50_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/bfb64768d2124e99b79c/?dl=1)| 
 |RN101-CLIP|341|57|40.5|[config](detection/configs/retinanet_clip_r101_fpn_1x_coco.py)|-| 
-|RN101-DenseCLIP|360|78|41.1|[config](detection/configs/retinanet_denseclip_r101_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/cfb8cdf85dfb453eb786/)| 
+|RN101-DenseCLIP|360|78|41.1|[config](detection/configs/retinanet_denseclip_r101_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/cfb8cdf85dfb453eb786/?dl=1)| 
 
 ##### Mask R-CNN
 | Model | FLOPs (G) | Params (M) | box AP | mask AP | config | url |
 |-------|-----------|------------|--------|---------|--------|-----| 
 |RN50-CLIP|301|44|39.3|36.8|[config](detection/configs/mask_rcnn_clip_r50_fpn_1x_coco.py)|-| 
-|RN50-DenseCLIP|327|67|40.2|37.6|[config](detection/configs/mask_rcnn_denseclip_r50_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/4adf197e693e4480bf26/)| 
+|RN50-DenseCLIP|327|67|40.2|37.6|[config](detection/configs/mask_rcnn_denseclip_r50_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/4adf197e693e4480bf26/?dl=1)| 
 |RN101-CLIP|377|63|42.2|38.9|[config](detection/configs/mask_rcnn_clip_r101_fpn_1x_coco.py)|-| 
-|RN101-DenseCLIP|399|84|42.6|39.6|[config](detection/configs/mask_rcnn_denseclip_r101_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/ca072b19676942c3be82/)| 
+|RN101-DenseCLIP|399|84|42.6|39.6|[config](detection/configs/mask_rcnn_denseclip_r101_fpn_1x_coco.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/ca072b19676942c3be82/?dl=1)| 
 
 
 
