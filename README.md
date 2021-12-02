@@ -16,7 +16,7 @@ applied to arbitrary dense prediction systems and various
 pre-trained visual backbones including both CLIP models
 and ImageNet pre-trained models.
 
-![intro](framework.png)
+![intro](framework.gif)
 
 Our code is based on mmsegmentation and mmdetection and timm.
 
