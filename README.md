@@ -20,7 +20,7 @@ and ImageNet pre-trained models.
 
 Our code is based on mmsegmentation and mmdetection and timm.
 
-[[Project Page]](https://denseclip.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2106.02034)
+[[Project Page]](https://denseclip.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2112.01518)
 
 
 ## Usage
@@ -122,7 +122,7 @@ If you find our work useful in your research, please consider citing:
 @inproceedings{rao2021denseclip,
   title={DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting},
   author={Rao, Yongming and Zhao, Wenliang and Chen, Guangyi and Tang, Yansong and Zhu, Zheng and Huang, Guan and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv preprint},
-  year = {2021}
+  journal={arXiv preprint arXiv:2112.01518},
+  year={2021}
 }
 ```
