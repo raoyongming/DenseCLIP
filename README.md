@@ -4,7 +4,7 @@ Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](htt
 
 This repository contains PyTorch implementation for DenseCLIP.
 
-DenseCLIP a new framework for dense prediction by implicitly and explicitly leveraging the pre-trained knowledge from
+DenseCLIP is a new framework for dense prediction by implicitly and explicitly leveraging the pre-trained knowledge from
 CLIP. Specifically, we convert the original image-text matching
 problem in CLIP to a pixel-text matching problem and
 use the pixel-text score maps to guide the learning of dense
