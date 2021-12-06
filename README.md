@@ -4,7 +4,7 @@ Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](htt
 
 This repository contains PyTorch implementation for DenseCLIP.
 
-DenseCLIP a new framework for dense prediction by implicitly and explicitly leveraging the pre-trained knowledge from
+DenseCLIP is a new framework for dense prediction by implicitly and explicitly leveraging the pre-trained knowledge from
 CLIP. Specifically, we convert the original image-text matching
 problem in CLIP to a pixel-text matching problem and
 use the pixel-text score maps to guide the learning of dense
@@ -20,7 +20,7 @@ and ImageNet pre-trained models.
 
 Our code is based on mmsegmentation and mmdetection and timm.
 
-[[Project Page]](https://denseclip.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2106.02034)
+[[Project Page]](https://denseclip.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2112.01518)
 
 
 ## Usage
@@ -122,7 +122,7 @@ If you find our work useful in your research, please consider citing:
 @inproceedings{rao2021denseclip,
   title={DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting},
   author={Rao, Yongming and Zhao, Wenliang and Chen, Guangyi and Tang, Yansong and Zhu, Zheng and Huang, Guan and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv preprint},
-  year = {2021}
+  journal={arXiv preprint arXiv:2112.01518},
+  year={2021}
 }
 ```
