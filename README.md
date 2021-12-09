@@ -48,7 +48,7 @@ We provide DenseCLIP models for Semantic FPN framework.
 
 | Model | FLOPs (G) | Params (M) | mIoU(SS) | mIoU(MS) | config | url |
 |-------|-----------|------------|--------|--------|--------|-----| 
-|RN50-CLIP|248.8|31.0|36.9|41.6|[config](segmentation/configs/fpn_clipres50_512x512_80k.py)|-| 
+|RN50-CLIP|248.8|31.0|39.6|41.6|[config](segmentation/configs/fpn_clipres50_512x512_80k.py)|-| 
 |RN50-DenseCLIP|269.2|50.3|43.5|44.7|[config](segmentation/configs/denseclip_fpn_res50_512x512_80k.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/8636d4a95c60418ba63c/?dl=1)| 
 |RN101-CLIP|326.6|50.0|42.7|44.3|[config](segmentation/configs/fpn_clipres101_512x512_80k.py)|-| 
 |RN101-DenseCLIP|346.3|67.8|45.1|46.5|[config](segmentation/configs/denseclip_fpn_res101_512x512_80k.py)|[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/bd478735bd9040ab9603/?dl=1)| 
