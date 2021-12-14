@@ -1,6 +1,6 @@
 # DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting
 
-Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](https://thu-jw.github.io/)\*, [Guangyi Chen](https://chengy12.github.io/), [Yansong Tang](https://andytang15.github.io/), [Zheng Zhu](http://www.zhengzhu.net/), Guan Huang, [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1),
+Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](https://wl-zhao.github.io/)\*, [Guangyi Chen](https://chengy12.github.io/), [Yansong Tang](https://andytang15.github.io/), [Zheng Zhu](http://www.zhengzhu.net/), Guan Huang, [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), and [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1).
 
 This repository contains PyTorch implementation for DenseCLIP.
 
@@ -18,10 +18,9 @@ and ImageNet pre-trained models.
 
 ![intro](framework.gif)
 
-Our code is based on mmsegmentation and mmdetection and timm.
+Our code is based on mmsegmentation and mmdetection.
 
 [[Project Page]](https://denseclip.ivg-research.xyz/) [[arXiv]](https://arxiv.org/abs/2112.01518)
-
 
 ## Usage
 
@@ -33,6 +32,8 @@ Our code is based on mmsegmentation and mmdetection and timm.
 - mmcv-full==1.3.17
 - mmseg==0.19.0
 - mmdet==2.17.0
+- regex
+- ftfy
 - fvcore
 
 To use our code, please first install the `mmcv-full` and `mmseg`/`mmdet` following the official guidelines ([`mmseg`](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/get_started.md), [`mmdet`](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md)) and prepare the datasets accordingly. 
