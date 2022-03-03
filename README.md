@@ -123,7 +123,7 @@ If you find our work useful in your research, please consider citing:
 @inproceedings{rao2021denseclip,
   title={DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting},
   author={Rao, Yongming and Zhao, Wenliang and Chen, Guangyi and Tang, Yansong and Zhu, Zheng and Huang, Guan and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv preprint arXiv:2112.01518},
-  year={2021}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
 }
 ```
