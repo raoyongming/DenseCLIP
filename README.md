@@ -2,7 +2,7 @@
 
 Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](https://wl-zhao.github.io/)\*, [Guangyi Chen](https://chengy12.github.io/), [Yansong Tang](https://andytang15.github.io/), [Zheng Zhu](http://www.zhengzhu.net/), Guan Huang, [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), and [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1).
 
-This repository contains PyTorch implementation for DenseCLIP.
+This repository contains PyTorch implementation for DenseCLIP (CVPR 2022).
 
 DenseCLIP is a new framework for dense prediction by implicitly and explicitly leveraging the pre-trained knowledge from
 CLIP. Specifically, we convert the original image-text matching
