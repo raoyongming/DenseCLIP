@@ -2,7 +2,7 @@
 
 Created by [Yongming Rao](https://raoyongming.github.io/)\*, [Wenliang Zhao](https://wl-zhao.github.io/)\*, [Guangyi Chen](https://chengy12.github.io/), [Yansong Tang](https://andytang15.github.io/), [Zheng Zhu](http://www.zhengzhu.net/), Guan Huang, [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), and [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en&authuser=1).
 
-This repository contains PyTorch implementation for DenseCLIP.
+This repository contains PyTorch implementation for DenseCLIP (CVPR 2022).
 
 DenseCLIP is a new framework for dense prediction by implicitly and explicitly leveraging the pre-trained knowledge from
 CLIP. Specifically, we convert the original image-text matching
@@ -123,7 +123,7 @@ If you find our work useful in your research, please consider citing:
 @inproceedings{rao2021denseclip,
   title={DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting},
   author={Rao, Yongming and Zhao, Wenliang and Chen, Guangyi and Tang, Yansong and Zhu, Zheng and Huang, Guan and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv preprint arXiv:2112.01518},
-  year={2021}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
 }
 ```
