@@ -6,7 +6,7 @@ _base_ = [
 
 model = dict(
     type='DenseCLIP',
-    pretrained='pretrained/RN102.pt',
+    pretrained='pretrained/RN101.pt',
     context_length=5,
     text_head=False,
     text_dim=512,
