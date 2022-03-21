@@ -87,7 +87,7 @@ class DenseCLIP(BaseSegmentor):
         context_length = self.text_encoder.context_length - self.context_length
         self.contexts = nn.Parameter(torch.randn(1, context_length, token_embed_dim))
         nn.init.trunc_normal_(self.contexts)
-        self.gamma = nn.Parameter(torch.ones(text_dim) * 1e-3)
+        self.gamma = nn.Parameter(torch.ones(text_dim) * 1e-4)
 
         assert self.with_decode_head
 
