@@ -243,7 +243,6 @@ class DenseCLIP(BaseSegmentor):
         map of the same size as input."""
         x = self.extract_feat(img)
 
-        x = self.extract_feat(img)
         _x_orig = [x[i] for i in range(4)]
         text_embeddings, x_orig, score_map = self.after_extract_feat(x)
 
