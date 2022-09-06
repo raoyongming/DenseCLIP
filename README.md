@@ -36,7 +36,7 @@ Our code is based on mmsegmentation and mmdetection.
 - ftfy
 - fvcore
 
-To use our code, please first install the `mmcv-full` and `mmseg`/`mmdet` following the official guidelines ([`mmseg`](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/get_started.md), [`mmdet`](https://github.com/open-mmlab/mmdetection/blob/master/docs/get_started.md)) and prepare the datasets accordingly. 
+To use our code, please first install the `mmcv-full` and `mmseg`/`mmdet` following the official guidelines ([`mmseg`](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/get_started.md), [`mmdet`](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md)) and prepare the datasets accordingly.
 
 ### Pre-trained CLIP Models
 
