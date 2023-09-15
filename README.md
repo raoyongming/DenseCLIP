@@ -40,7 +40,7 @@ To use our code, please first install the `mmcv-full` and `mmseg`/`mmdet` follow
 
 ### Pre-trained CLIP Models
 
-Download the pre-trained CLIP models (`RN50.pt`, `RN101.pt`, `VIT-B-16.pt`) and save them to the `pretrained` folder.
+Download the pre-trained CLIP models (`RN50.pt`, `RN101.pt`, `VIT-B-16.pt`) and save them to the `pretrained` folder. The download links can be found in [the official CLIP repo](https://github.com/openai/CLIP/blob/a1d071733d7111c9c014f024669f959182114e33/clip/clip.py#L30).
 
 ### Segmentation
 
